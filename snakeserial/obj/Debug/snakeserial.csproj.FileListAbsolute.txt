@@ -1,0 +1,6 @@
+c:\users\dok\documents\visual studio 2015\Projects\snakeserial\snakeserial\bin\Debug\snakeserial.exe.config
+c:\users\dok\documents\visual studio 2015\Projects\snakeserial\snakeserial\bin\Debug\snakeserial.exe
+c:\users\dok\documents\visual studio 2015\Projects\snakeserial\snakeserial\bin\Debug\snakeserial.pdb
+c:\users\dok\documents\visual studio 2015\Projects\snakeserial\snakeserial\obj\Debug\snakeserial.exe
+c:\users\dok\documents\visual studio 2015\Projects\snakeserial\snakeserial\obj\Debug\snakeserial.pdb
+c:\users\dok\documents\visual studio 2015\Projects\snakeserial\snakeserial\obj\Debug\snakeserial.csprojResolveAssemblyReference.cache
